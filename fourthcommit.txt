@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "I think I got a hang of it now"
