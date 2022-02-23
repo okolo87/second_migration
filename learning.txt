@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "Want to check something"
