@@ -1,7 +1,0 @@
-#!/bin/bash
-
-S=first commit
-
-echo "$S"
-echo "no actually second"
-echo ************************************
